@@ -1,0 +1,21 @@
+# BTC Lag Scalper Dependencies
+
+# WebSocket and async HTTP
+websockets>=11.0.3
+aiohttp>=3.9.0
+
+# Web server for health checks
+aiohttp>=3.9.0
+
+# Logging and utilities (standard library - listed for reference)
+# asyncio - built-in
+# json - built-in
+# dataclasses - built-in
+# collections - built-in
+# threading - built-in
+# signal - built-in
+# datetime - built-in
+# typing - built-in
+
+# Optional: python-dotenv for local development
+python-dotenv>=1.0.0
